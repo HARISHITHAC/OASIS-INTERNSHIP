@@ -1,0 +1,42 @@
+body{
+    background-color:#E6E6FA;
+    margin:0 20%;
+    font-family: monospace;
+}
+
+#title{
+    text-align: center;
+    font-size:3em;
+    font-family: serif;
+    text-decoration: underline;
+}
+#image{
+    border-radius: 10%;
+}
+img{
+    display: block;
+    width: 80%;
+    margin: 0 10%;
+}
+
+#img-caption{
+    font-size: 50px;
+    padding: 250px;
+    font-weight: bold;
+    
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding:5px 10px;
+    margin-top:20px;
+}
+h1.title{
+    color:blueviolet;
+    text-align:center;
+    font-weight: bold;
+}
+p{
+    font-family: cursive;
+}
